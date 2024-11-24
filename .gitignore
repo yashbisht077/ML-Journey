@@ -1,0 +1,8 @@
+# Ignore model files
+*.pkl
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+# Mac Files
+.DS_Store
